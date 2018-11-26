@@ -1,6 +1,6 @@
-﻿token=NTE2MzEzNjM4NjAwOTY2MTY1.Dtx2VA.l6STqjyTYVe5ndqTDLQBRiS_PmE
-owner=465811762386567168
-prefix= C
-game= Cplay
+token=NTE2MzU4ODA1Nzc3NDE2MTk2.DtzvAA.f3CqeF0Ji_sOtph5NRsb7YCtJcM
+owner=334708400833167360
+prefix= Z
+game= Zplay
 stayinchannel=true
 songinstatus=true 
